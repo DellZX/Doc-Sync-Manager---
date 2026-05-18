@@ -230,7 +230,7 @@ SOLO 会询问以下信息：
 
 | 资源       | 链接/说明  |
 | ---------- | ---------- |
-| GitHub链接 | （待补充） |
+| GitHub链接 | https://github.com/DellZX/Doc-Sync-Manager---/tree/main |
 
 ---
 
